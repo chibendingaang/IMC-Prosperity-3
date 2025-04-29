@@ -1,5 +1,5 @@
 ## IMC-Prosperity-3
-Algo trades developed by Nisarg and team members of Equity Island in IMC Prosperity 3
+Algo trades developed by me and the team members of Equity Island in IMC Prosperity 3
 
 ## Description
 Prosperity was a 15-day trading competition where players earned currency of seashells to grow their Archipelago across 5 rounds (each spanning 3 days). Multiple new products were introduced in each round, with unique properties resembling real-world assets. Products from previous rounds remain tradable, and finding and using alphas was crucial to obtain optimal strategies.
